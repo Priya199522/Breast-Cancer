@@ -1,8 +1,9 @@
 # Breast-Cancer
+• Collected a cancer dataset from the web and performed thorough data cleaning and preprocessing to ensure quality and consistency.
 
+• Conducted exploratory data analysis (EDA) to uncover insights by comparing various parameters of cancer cells.
 
-• The dataset is collected from web.
-• The data was cleaned and processed and analysed before EDA.
-• Data analysis and visualization done by comparing different parameters of cancer 
-  cells.
-• Build a Logistic Regression model with accuracy score 95%.
+• Utilized data visualization techniques to highlight key patterns and relationships in the dataset.
+
+• Developed a Logistic Regression model to predict cancer outcomes, achieving an accuracy score of 95%.
+
